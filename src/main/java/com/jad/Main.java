@@ -19,5 +19,15 @@ public class Main {
 
         iceberg.swimAll();
         // Rocky : je nage comme un dieu
+
+        // Astuce : il s'agit du DP Strategy
+
+        // Rocky prend la confiance et se met une casquette, des lunettes de soleils et des palmes
+        // Glider jaloux, mets lui aussi une casquette
+        iceberg.swimAll();
+        // Rocky avec une casquette, des lunettes et des palmes : je nage comme un dieu
+        // Glider avec une casquette : is swimming gracefully in the waters.
+
+        // Astuce : il s'agit du DP decorator
     }
 }
